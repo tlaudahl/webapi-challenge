@@ -26,13 +26,24 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+- express.json() to parse json so we can use and send it
+- express.listen() or server.listen to listen to a port for api calls
+
 - [ ] Describe Middleware?
+
+- Something added to the pipeline to happen inbetween when a request is recieved and a response is sent
 
 - [ ] Describe a Resource?
 
+- A part of the address that calls the API - ex: /posts/:id
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+- Status 200
+
 - [ ] How can we partition our application into sub-applications?
+
+- Folders and files for specific actions
 
 ## Project Setup
 
